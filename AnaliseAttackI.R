@@ -74,11 +74,25 @@ knitr::kable(tabela_resultados, format = "markdown")
 #VERIFICANDO BARREIRAS RELACIONADAS A TRANSPORTE
 attack1$attack546
 
+
+
 #VERIFICANDO BARREIRAS RELACIONADAS A ATENÇÃO BÁSICA
 attack1$attack527
 
+
+
 #VERIFICANDO BARREIRAS RELACIONADAS A MEDICAMENTOS
 attack1$attack601
+
+
+#VERIFICANDO BARREIRAS RELACIONADAS A INTERNAÇÃO
+attack1$attack929
+
+
+attack1$attack616
+
+
+
 
 
 
